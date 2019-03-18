@@ -1,7 +1,7 @@
 'use strict'
 
 const ukRegions = [
-    {value: 'Not known', label: 'Not known'},
+    {value: 'Unknown', label: 'Unknown'},
     {value: 'Bedfordshire', label: 'Bedfordshire'},
     {value: 'Berkshire', label: 'Berkshire'},
     {value: 'Bristol', label: 'Bristol'},
